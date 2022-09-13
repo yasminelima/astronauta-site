@@ -1,13 +1,11 @@
 <h1>Projeto Astronauta</h1>
 
-<p>Projeto de um site criado durante o curso de <strong>HTML5</strong> e <strong>CSS3</strong> para aprendizado de>: <br>
+<p>Projeto de um site criado durante o curso de <strong>HTML5</strong> e <strong>CSS3</strong> para aprendizado de: <br>
 
 -  background-image<br>
 -  background-size<br>
 -  position<br>
--  transform<br><br>
-
-</p>
+-  transform<br></p>
 <table>
     <tr>
         <td>
